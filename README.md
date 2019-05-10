@@ -1,2 +1,2 @@
 # Math_puzzle_python
-# プログラム脳を
+プログラマ脳を鍛える数学パズル(Python)
